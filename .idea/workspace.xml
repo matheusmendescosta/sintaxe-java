@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c48e6e25-828f-4a72-8e0d-7eaece8bc89f" name="Changes" comment="Tipos e Variáveis">
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/Escopo/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/Escopo/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/JavaDoc/JavaDoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/Metodos/SmartTv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/Metodos/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/matheus/PalavrasReservadas/PalavrasReservadas.java" afterDir="false" />
+    <list default="true" id="c48e6e25-828f-4a72-8e0d-7eaece8bc89f" name="Changes" comment="WIP">
+      <change afterPath="$PROJECT_DIR$/src/edu/matheus/Argumentos/EntradaDados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/matheus/Operadores/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/matheus/Operadores/Operadores.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +62,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676911335005</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WIP">
+      <created>1677018538061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677018538061</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testando o versionamento do intellij" />
     <MESSAGE value="Tipos e Variáveis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tipos e Variáveis" />
+    <MESSAGE value="WIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
   </component>
 </project>
